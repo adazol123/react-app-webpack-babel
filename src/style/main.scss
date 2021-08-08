@@ -1,0 +1,18 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+.help {
+    width: 100%;
+    min-height: 90vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    color: gold;
+    font-size: 4rem;
+}
